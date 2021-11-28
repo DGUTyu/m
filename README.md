@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 id="donate">遇见</h1>
 
 ![封面](https://git.imooc.com/coding-390/Meet/raw/master/Class/Img/Meet.jpg)
@@ -205,7 +206,7 @@ Android 基于Linux，App运行在沙箱机制，就是一个App独立运行在�
 
 Heap Size：总内存
 
-Heap Alloc:已使用
+Heap Alloc:已
 
 Heap Free：还剩下
 
@@ -513,3 +514,6 @@ public static **[] values();
 
 
 
+=======
+# m
+>>>>>>> mym/main
